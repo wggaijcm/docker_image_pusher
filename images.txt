@@ -13,3 +13,4 @@ langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest
 nginx:latest
 zhayujie/chatgpt-on-wechat
+chatimage/chatchat:0.3.0-2024-0624
