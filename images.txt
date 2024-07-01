@@ -16,3 +16,8 @@ zhayujie/chatgpt-on-wechat
 chatimage/chatchat:0.3.0-2024-0624
 xprobe/xinference:v0.12.1
 hanfangyuan/dify-on-wechat
+vinlic/kimi-free-api:latest
+vinlic/glm-free-api:latest
+vinlic/qwen-free-api:latest
+vinlic/emohaa-free-api:latest
+vinlic/step-free-api:latest
